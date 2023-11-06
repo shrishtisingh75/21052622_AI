@@ -27,19 +27,11 @@ Adjust the number of generations and other parameters in the code to achieve the
 Close the window when the program finishes executing.
 
 link to the report- https://drive.google.com/file/d/1GuF0RCEHL7xUC5rgAzPLSNFmTZ7tuP2c/view?usp=drivesdk
+
 # output
 
-![ce4e2ea2-7c59-4635-89b3-c729a64671ec](https://github.com/shrishtisingh75/21052622_AI/assets/93677677/cdf05132-a9a9-448a-b82d-a87b7d5198f3)
+![ce4e2ea2-7c59-4635-89b3-c729a64671ec](https://github.com/shrishtisingh75/21052622_AI/assets/93677677/1e2f14fe-026f-4489-be08-a6cf63390e19)
 
 
-
-
-![f6b8e8f7-03bd-4bab-b0bd-9941a8fc3de9](https://github.com/shrishtisingh75/21052622_AI/assets/93677677/88fabfea-2752-4e45-bcba-a169995a9874)
-
-
-
-
-
-
-
+![f6b8e8f7-03bd-4bab-b0bd-9941a8fc3de9](https://github.com/shrishtisingh75/21052622_AI/assets/93677677/85d5a261-21f7-4b7a-9756-76c0b1f65b60)
 
